@@ -1,5 +1,5 @@
 
-# Templiphy - a Simple PHP Template Engine
+# TempliPHy - a Simple PHP Template Engine
 
 A lightweight PHP template engine with moustache syntax for easy variable insertion and PHP code execution within your HTML templates.
 
