@@ -3,7 +3,8 @@
     "description": "A simple PHP template engine with moustache syntax: {{ $variable }} and {{{ PHP code }}}.",
     "type": "library",
     "keywords": ["template", "templating", "php", "moustache", "lightweight"],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,  
     "homepage": "https://github.com/davidphtee/templiphy",
     "license": "MIT",
     "authors": [
@@ -21,5 +22,5 @@
         "davidphtee\\TempliPHy\\": "src/"
       }
     }
-  }
+  } 
   
