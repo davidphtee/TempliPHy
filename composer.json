@@ -1,0 +1,25 @@
+{
+    "name": "davidphtee/templiphy",
+    "description": "A simple PHP template engine with moustache syntax: {{ $variable }} and {{{ PHP code }}}.",
+    "type": "library",
+    "keywords": ["template", "templating", "php", "moustache", "lightweight"],
+    "minimum-stability": "stable",
+    "homepage": "https://github.com/davidphtee/templiphy",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "David Tee",
+        "email": "davidphtee@gmail.com",
+        "homepage": "https://github.com/davidphtee"
+      }
+    ],
+    "require": {
+      "php": ">=7.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "davidphtee\\TempliPHy\\": "src/"
+      }
+    }
+  }
+  
